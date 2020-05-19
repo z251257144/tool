@@ -179,5 +179,18 @@ deploy:
 
 
 
-现在将文件提交至Github，等待travis同步部署。
+现在将文件提交至Github，等待travis同步部署。部署效果如下。
 
+![部署效果图](image\10.jpg)
+
+
+
+打开文档链接：https://z251257144.github.io/tool/， 运行效果如下：
+
+![](image\9.jpg)
+
+
+
+## 结束
+
+自此Gitbook安装、使用、发布流程已经全部写完，方便我们编写、阅读文章。
